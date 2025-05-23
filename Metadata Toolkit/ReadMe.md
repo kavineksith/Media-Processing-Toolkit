@@ -169,7 +169,7 @@ The toolkit logs to both console and file (`media_metadata.log` by default) with
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
