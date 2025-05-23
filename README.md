@@ -1,4 +1,4 @@
-# Media Processing Toolkit
+# Media Processing Toolkit (Images Only)
 
 ## 🎨 Overview
 
